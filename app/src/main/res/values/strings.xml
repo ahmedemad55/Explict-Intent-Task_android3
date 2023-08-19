@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Task_android3</string>
+    <string name="tv1">Welcome</string>
+    <string name="et_name">Full Name</string>
+    <string name="et_email">Email</string>
+    <string name="et_password">Password</string>
+    <string name="et_phone">Phone Number</string>
+    <string name="et_age">Age</string>
+    <string name="btn_next">Sign up</string>
+
+
+    <string name="tv_name">Welcome </string>
+    <string name="tv_email">Email : </string>
+    <string name="tv_phone">Phone : </string>
+
+    <string name="et2_phone">Entre Phone </string>
+    <string name="et_text">Entre Text </string>
+    <string name="btn_shara">Share</string>
+    <string name="btn_call">Call</string>
+
+
+
+</resources>

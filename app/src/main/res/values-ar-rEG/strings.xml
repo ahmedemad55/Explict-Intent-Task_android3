@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task_android3</string>
+    <string name="tv1">من فضلك ادخل هذه البيانات</string>
+    <string name="et_name">ادخل اسمك</string>
+    <string name="et_email">ادخل ايميلك</string>
+    <string name="et_password">ادخل كلمة السر</string>
+    <string name="et_phone">ادخل رقم الهاتف</string>
+    <string name="et_age">ادخل عمرك</string>
+    <string name="btn_next">التالي</string>
+
+
+    <string name="tv_name">مرحباا</string>
+    <string name="tv_email">ايميلك : </string>
+    <string name="tv_phone">رقم هاتفك : </string>
+    <string name="et2_phone">ادخل رقم الهاتف</string>
+    <string name="et_text">ادخل النص</string>
+
+    <string name="btn_shara">مشاركه</string>
+    <string name="btn_call">اتصال</string>
+
+
+
+</resources>
